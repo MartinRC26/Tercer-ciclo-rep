@@ -15,7 +15,9 @@ public class GGWP {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Gaaaaaaaa");    
+        System.out.println("Gaaaaaaaa");
+        System.out.println("MARTIN ES UN HDP");
+        System.out.println("NO ME REPRUEBE PROFE");
     }
     
 }
