@@ -1,11 +1,4 @@
 # Ant
-- task: Ant@1
-  inputs:
-    buildFile: 'build.xml'
-    options: 
-    publishJUnitResults: true
-    testResultsFiles: '**/TEST-*.xml'
-    javaHomeOption: 'JDKVersion'
 # Build with Apache Ant
 - task: Ant@1
   inputs:
