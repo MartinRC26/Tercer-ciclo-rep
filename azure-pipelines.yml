@@ -1,7 +1,5 @@
 # Ant
 # Build with Apache Ant
-- task: Ant@1
-  inputs:
     #buildFile: 'build.xml' 
     #options: # Optional
     #targets: # Optional
